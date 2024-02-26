@@ -1,0 +1,4 @@
+DTMF kartotuvo modulis naudojamas persiųsti gautus DTMF skaitmenis.
+Tai gali būti naudojama valdyti kitas nuotolines stotis, kurios taip pat yra valdomos DTMF.
+Visi gauti DTMF skaitmenys bus pakartotinai persiųsti ir visiškai ignoruojami naudojant S v x Link.
+Išjunkite modulį siųsdami skaičiaus ženklą bent tris sekundes.

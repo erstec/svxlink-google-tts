@@ -1,0 +1,3 @@
+„Echo Link“ modulis naudojamas prisijungti prie kitų „Echo Link“ stočių.
+Norėdami prisijungti prie kitos stoties, tiesiog atsiųskite mazgo numerį ir nuspauskite groteles.
+Norėdami atsijungti, nuspauskite groteles. Norėdami išeiti iš modulio, nuspauskite groteles, kai neprisijungę.

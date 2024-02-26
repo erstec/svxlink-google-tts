@@ -1,0 +1,5 @@
+Tai S v x Link sistema. Tai daugiafunkcinė balso paslaugų sistema, skirta radijomėgėjams. „S v x Link“ valdoma DTMF komandomis, susidedančiomis iš vieno ar daugiau skaitmenų, po kurių seka grotelių ženklas.
+Išsiuntus vieną žvaigždutę, sistema atpažins savę.
+Sistema suskirstyta į kelis modulius, kurių kiekvienas atlieka tam tikrą užduotį.
+Modulis suaktyvinamas atsiųnčiant jo modulio ai di, o po jo – grotelių ženklą.
+Daugelis modulių paleis pagalbos pranešimą, jei išsiųsite nulį, kol jis yra suaktyvintas.

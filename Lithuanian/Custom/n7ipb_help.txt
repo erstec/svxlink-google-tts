@@ -1,0 +1,5 @@
+Be to, yra keletas integruotų komandų, nesusijusių su moduliais.
+
+Išsiuntus vieną žvaigždutę, sistema identifikuos save.
+
+

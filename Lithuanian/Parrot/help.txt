@@ -1,0 +1,3 @@
+Papūgos modulis atkuria viską, ką sakote.
+Tai gali būti naudojama kaip paprastasis kartotuvas arba tiesiog norint išgirsti, kaip skamba jūsų moduliacija.
+Jei siunčiate DTMF komandą į Parrot modulį, jis nuskaitys gautus skaičius. Išeikite iš modulio paspausdami groteles.

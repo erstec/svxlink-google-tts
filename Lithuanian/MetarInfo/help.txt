@@ -1,0 +1,7 @@
+Naudodami „Metar“ informacijos modulį, galite prašyti pasaulinės informacijos apie orus iš I C A O oro stočių, kurias teikia Amerikos orų tarnyba N O A A.
+
+Norėdami gauti iš anksto nustatytų stočių sąrašą, atsiųskite 0 1, o po to groteles.
+
+Paprašykite savo vietinio centro, kad jis pridėtų jus dominančias stotis, arba naudokite vieną iš galimų paieškos funkcijų.
+
+Norėdami išeiti iš modulio, išsiųskite vien groteles.

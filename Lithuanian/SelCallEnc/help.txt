@@ -1,0 +1,3 @@
+Sel kal enkoderio modulis naudojamas atrankinėms skambinimo tonų sekoms perduoti. Norėdami išsiųsti iškvietimo seką, išsiųskite DTMF komandą, kurioje pirmieji du skaitmenys reiškia naudotiną sel skambučio standartą, o likę skaitmenys yra tikroji siunčiamų skaitmenų seka. Galimi standartai yra
+
+01,ZVEI1, 02,ZVEI2, 03,ZVEI3, 04,P ZVEI, 05,D ZVEI, 06,E E Eigh, 07,CC IR1, 08,CC IR2, 09,VD E W, 10,CC I TT, 11,NATEL, 12,E I Eigh, 13,EURO, 14,MODAT, 15,PD ZVEI, 16,PCC IR, 17,AUTO Eigh

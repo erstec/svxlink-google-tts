@@ -1,0 +1,7 @@
+Tai S v x Link kartotuvo sistemos pagalba.
+S v x Link kartotuvai valdomi DTMF komandomis, susidedančiomis iš vieno ar daugiau skaitmenų, po kurių eina numerio ženklas.
+Sistema suskirstyta į kelis modulius, kurių kiekvienas atlieka tam tikrą užduotį.
+Suaktyvinate modulį atsiųsdami jo modulio ID ir numerio ženklą.
+Dauguma modulių paleis pagalbos pranešimą, jei moduliui veikiant bus išsiųstas 0.
+Be to, yra keletas integruotų komandų, nesusijusių su moduliais, kurios pateikia informaciją apie kartotuvą. Norėdami gauti sąrašą, susisiekite su sistemos savininku.
+Išsiuntus vieną žvaigždutę, sistema identifikuos save.

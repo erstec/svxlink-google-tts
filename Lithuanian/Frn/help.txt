@@ -1,0 +1,2 @@
+Laisvojo radijo tinklo modulis naudojamas prisijungti prie laisvojo radijo tinklo serverių.
+Norėdami išeiti iš modulio, nuspauskite groteles.

@@ -1,0 +1,7 @@
+Naudodami „Metar“ informaciją galite prašyti pasaulinės informacijos apie orą iš I C A O meteorologinių stočių, kurias teikia Amerikos N O A A orų tarnyba.
+
+Norėdami gauti iš anksto nustatytų stočių sąrašą, atsiųskite 0 1 ir groteles.
+
+Paprašykite savo vietinio s v x link administratorių pridėti dominančių stočių arba naudokite vieną iš dviejų paieškos funkcijų.
+
+Norėdami išeiti iš modulio, išsiųskite vieną grotelių ženklą.
